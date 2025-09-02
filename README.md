@@ -3,9 +3,6 @@ I am a passionate Game Engineer with a deep interest in programming and interact
 
  - Python
  - JavaScript / TypeScript
- - C / C++
- - Assembly
- - Rust
 
 I have worked for years as a Fullstack and Backend Developer, building robust and scalable systems.
 
